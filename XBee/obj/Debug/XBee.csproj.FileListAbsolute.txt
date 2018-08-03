@@ -1,0 +1,16 @@
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\C# COM Prog\XBee\XBee\obj\Debug\XBee.exe
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\C# COM Prog\XBee\XBee\obj\Debug\XBee.pdb
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\C# COM Prog\XBee\XBee\bin\Debug\XBee.exe
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\C# COM Prog\XBee\XBee\bin\Debug\XBee.pdb
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\C# COM Prog\XBee\XBee\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\C# COM Prog\XBee\XBee\obj\Debug\XBee.Form1.resources
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\C# COM Prog\XBee\XBee\obj\Debug\XBee.Properties.Resources.resources
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\C# COM Prog\XBee\XBee\obj\Debug\XBee.csproj.GenerateResource.Cache
+F:\_R&D\SWE\Custom Programs\C#_Projects\XBee\XBee\obj\Debug\XBee.exe
+F:\_R&D\SWE\Custom Programs\C#_Projects\XBee\XBee\obj\Debug\XBee.pdb
+F:\_R&D\SWE\Custom Programs\C#_Projects\XBee\XBee\bin\Debug\XBee.exe
+F:\_R&D\SWE\Custom Programs\C#_Projects\XBee\XBee\bin\Debug\XBee.pdb
+F:\_R&D\SWE\Custom Programs\C#_Projects\XBee\XBee\obj\Debug\ResolveAssemblyReference.cache
+F:\_R&D\SWE\Custom Programs\C#_Projects\XBee\XBee\obj\Debug\XBee.Form1.resources
+F:\_R&D\SWE\Custom Programs\C#_Projects\XBee\XBee\obj\Debug\XBee.Properties.Resources.resources
+F:\_R&D\SWE\Custom Programs\C#_Projects\XBee\XBee\obj\Debug\XBee.csproj.GenerateResource.Cache

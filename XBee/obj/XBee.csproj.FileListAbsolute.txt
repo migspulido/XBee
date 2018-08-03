@@ -1,0 +1,16 @@
+C:\Users\migs\Documents\Visual Studio 2005\Projects\XBee\XBee\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\migs\Documents\Visual Studio 2005\Projects\XBee\XBee\obj\Debug\XBee.Form1.resources
+C:\Users\migs\Documents\Visual Studio 2005\Projects\XBee\XBee\obj\Debug\XBee.Properties.Resources.resources
+C:\Users\migs\Documents\Visual Studio 2005\Projects\XBee\XBee\obj\Debug\XBee.csproj.GenerateResource.Cache
+C:\Users\migs\Documents\Visual Studio 2005\Projects\XBee\XBee\bin\Debug\XBee.exe
+C:\Users\migs\Documents\Visual Studio 2005\Projects\XBee\XBee\bin\Debug\XBee.pdb
+C:\Users\migs\Documents\Visual Studio 2005\Projects\XBee\XBee\obj\Debug\XBee.exe
+C:\Users\migs\Documents\Visual Studio 2005\Projects\XBee\XBee\obj\Debug\XBee.pdb
+C:\Users\archangel\Documents\Visual Studio 2005\Projects\XBee\XBee\obj\Debug\XBee.exe
+C:\Users\archangel\Documents\Visual Studio 2005\Projects\XBee\XBee\obj\Debug\XBee.pdb
+C:\Users\archangel\Documents\Visual Studio 2005\Projects\XBee\XBee\bin\Debug\XBee.exe
+C:\Users\archangel\Documents\Visual Studio 2005\Projects\XBee\XBee\bin\Debug\XBee.pdb
+C:\Users\archangel\Documents\Visual Studio 2005\Projects\XBee\XBee\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\archangel\Documents\Visual Studio 2005\Projects\XBee\XBee\obj\Debug\XBee.Form1.resources
+C:\Users\archangel\Documents\Visual Studio 2005\Projects\XBee\XBee\obj\Debug\XBee.Properties.Resources.resources
+C:\Users\archangel\Documents\Visual Studio 2005\Projects\XBee\XBee\obj\Debug\XBee.csproj.GenerateResource.Cache
